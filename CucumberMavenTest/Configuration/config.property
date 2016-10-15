@@ -1,0 +1,6 @@
+ChromeDriver:C:\\Users\\Think\\Desktop\\Eclipse\\chrome driver\\chromedriver.exe
+IEDriver:C:\\Users\\Think\\Desktop\\Eclipse\\IEDriverServer.exe
+url:http://www.google.com
+Geckodriver:C:\\Users\\Think\\Desktop\\Eclipse\\eclipse\\geckodriver.exe
+DataenterXpath:gsfi
+smartfocuslinkXpath://a[text()='SmartFocus: The Message Cloud']
